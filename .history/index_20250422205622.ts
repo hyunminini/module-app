@@ -2,5 +2,3 @@
 // export { HelloText };
 
 // export { default as RoomListView } from './src/modules/messenger/screens/RoomListView';
-
-export * from './src/modules/messenger';
